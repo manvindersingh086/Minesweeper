@@ -1,0 +1,25 @@
+.cellView {
+    width: 40px;
+    height:40px;
+    background-color: #bdc3c7;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.cellViewImage {
+    width: 40px;
+    height:40px;
+    background-color: #bdc3c7;
+    border: 1px solid white;
+    display: flex;
+    background-image: url("../../public/114px-Minesweeper_flag.png");
+    background-size: 38px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+}
